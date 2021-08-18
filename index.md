@@ -1,11 +1,19 @@
-## Welcome to GitHub Pages
+# Winton Tao 的 github
 
-You can use the [editor on GitHub](https://github.com/leisur/leisur.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  他比较懒不愿意动手写。
+## 图文展示
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  ![](e.jpg)
 
-### Markdown
 
+
+
+
+
+
+
+
+## 例子
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
